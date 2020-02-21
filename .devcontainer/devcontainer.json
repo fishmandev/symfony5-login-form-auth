@@ -42,5 +42,6 @@
 	"extensions": [
 		"bmewburn.vscode-intelephense-client",
 		"mtxr.sqltools",
+		"whatwedo.twig",
 	]
 }
