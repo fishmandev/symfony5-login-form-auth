@@ -30,3 +30,4 @@ services:
 
 volumes:
     mysqldata:
+        name: mysql_data
